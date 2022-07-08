@@ -1,5 +1,18 @@
 # Precipitation_Prediction
-The aim of the project is to predict whether precipitation would occur in Los Angeles.
+
+## Introduction
+
+The aim of the project is to predict whether precipitation would occur or not in Los Angeles.
+
+## Technologies Used
+
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
+
+## Methodologies
 
 The **Catboost Classifier** has been used for the prediction.
 
